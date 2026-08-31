@@ -19,12 +19,16 @@ A fully responsive front-end e-commerce website built from scratch using **HTML,
 ## 📸 Screenshots
 
 > Add a few screenshots of your site here once uploaded. Example:
->
-> ![Home Page](screenshots/home.png)
-> ![Shop Page](screenshots/shop.png)
-> ![Mobile View](screenshots/mobile.png)
+## Screenshots
 
----
+### Home Page
+![Home Page](screenshots/Home_page.png)
+
+### Shop Page
+![Shop Page](screenshots/Shop_page.png)
+
+### Mobile Responsive
+![Mobile Responsive](screenshots/Mobile_reponsive.png)
 
 ## ✨ Features
 
@@ -99,11 +103,11 @@ mystore-ecommerce/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+  git clone https://github.com/shehla-codex/Mystore-ecommerce-website.git
    ```
 2. **Open the project folder**
    ```bash
-   cd your-repo-name
+  cd Mystore-ecommerce-website
    ```
 3. **Open `index.html` in your browser**
    - Easiest way: install the [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) extension in VS Code, right-click `index.html` → **Open with Live Server**.
