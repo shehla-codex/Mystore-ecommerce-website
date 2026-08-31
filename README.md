@@ -12,8 +12,7 @@ A fully responsive front-end e-commerce website built from scratch using **HTML,
 
 > Add your live link here after enabling GitHub Pages (see setup steps below):
 >
-> **[https://your-username.github.io/your-repo-name/](https://your-username.github.io/your-repo-name/)**
-
+> https://shehla-codex.github.io/Mystore-ecommerce-website/
 ---
 
 ## 📸 Screenshots
