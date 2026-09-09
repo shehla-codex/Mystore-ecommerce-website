@@ -15,20 +15,6 @@ A fully responsive front-end e-commerce website built from scratch using **HTML,
 > https://shehla-codex.github.io/Mystore-ecommerce-website/
 ---
 
-## 📸 Screenshots
-
-> Add a few screenshots of your site here once uploaded. Example:
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/Home_page.png)
-
-### Shop Page
-![Shop Page](screenshots/Shop_page.png)
-
-### Mobile Responsive
-![Mobile Responsive](screenshots/Mobile_reponsive.png)
-
 ## ✨ Features
 
 ### 🛒 Shopping Experience
