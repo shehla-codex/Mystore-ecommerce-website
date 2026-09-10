@@ -14,9 +14,21 @@ A fully responsive front-end e-commerce website built from scratch using **HTML,
 >
 > https://shehla-codex.github.io/Mystore-ecommerce-website/
 ---
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/Home-page.png)
+
+### Shop Page
+![Shop Page](screenshots/Shop=page.png)
+
+### Mobile Responsive
+![Mobile Responsive](screenshots/Mobile_responsive(2).png)
+
+### Mobile Responsive
+![Mobile Responsive](screenshots/Mobile_responsive(1).png)
 
 ## ✨ Features
-
 ### 🛒 Shopping Experience
 - Add to Cart with live quantity updates and subtotal calculation
 - Wishlist (add/remove products, persists across sessions)
