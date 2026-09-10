@@ -22,9 +22,6 @@ A fully responsive front-end e-commerce website built from scratch using **HTML,
 ### Shop Page
 ![Shop Page](screenshots/Shop-page.png)
 
-### Mobile Responsive
-![Mobile Responsive](screenshots/Mobile-responsive.png)
-
 
 ## ✨ Features
 ### 🛒 Shopping Experience
